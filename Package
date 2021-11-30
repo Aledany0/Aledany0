@@ -1,0 +1,15 @@
+
+Package: my
+Version: 2.5
+Architecture: iphoneos-arm
+Maintainer: Aledany	
+Depends:  mobilesubstrate 	
+Conflicts: non
+Filename: debs/SHADOW CHEATS.deb
+Size: 765992
+MD5sum: 3d709922a23eb9251c75a94436f643da	
+SHA1: 9145fb58956d9f974f92ff02a09e5bba91fc6cc2
+SHA256: e2b819e0b079a8eb1c0f2feca8da2eb63a0571de2c39c05fc521081e343c1fa5	
+Section: Tweaks	Section: Tweaks
+Depiction: Depends Keys
+Name: SHADOE CHEATS
